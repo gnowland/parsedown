@@ -1,3 +1,12 @@
+#gnowland/parsedown
+
+## Fork note
+- Forked to merge in PR https://github.com/erusev/parsedown/pull/765 on the 1.7.x branch in order to autogenerate anchor IDs.
+- Added tag 1.7.4-alpha
+- In use on gnowland/seabirdtracking.org
+
+<hr>
+
 <!-- ![Parsedown](https://i.imgur.com/yE8afYV.png) -->
 
 <p align="center"><img alt="Parsedown" src="https://i.imgur.com/fKVY6Kz.png" width="240" /></p>
