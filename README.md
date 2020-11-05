@@ -1,4 +1,4 @@
-#gnowland/parsedown
+# gnowland/parsedown
 
 ## Fork note
 - Forked to merge in PR https://github.com/erusev/parsedown/pull/765 on the 1.7.x branch in order to autogenerate anchor IDs.
