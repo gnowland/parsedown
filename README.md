@@ -3,6 +3,7 @@
 ## Fork note
 - Forked to merge in PR https://github.com/erusev/parsedown/pull/765 on the 1.7.x branch in order to autogenerate anchor IDs.
 - Added tag 1.7.4-alpha
+- Once 2.0.x is released, swithc to that and delete this repository
 - In use on gnowland/seabirdtracking.org
 
 <hr>
